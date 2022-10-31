@@ -3,8 +3,8 @@
 // Temperatura minima 24.5C <> 25.0C
 // Temperatura maxima 27.0C <> 26.5C
 
-#define BLYNK_TEMPLATE_ID "TMPLbZiVzUtN"
-#define BLYNK_DEVICE_NAME "NanoReef"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_DEVICE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
@@ -33,7 +33,7 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "2G_Mira77";
+char ssid[] = "";
 char pass[] = "";
 
   
