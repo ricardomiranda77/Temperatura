@@ -1,9 +1,10 @@
 # Termostato com Esp8266 e Blynk
 ### Hadware necessario:
 
-- Esp8266 ESP-12E
-- DS18B20
-- Modulo de rele 2x
+- Modulo Esp8266 ESP-12E
+- Sensor de Temperatura DS18B20
+- Modulo de rele Duplo de 5V
+- Fonte 5V 2A
 
 O Aquecedor é acionado quando a temperatura chega a 24.5C e desliga quando chega em 25.0C
 
