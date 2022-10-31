@@ -1,0 +1,7 @@
+data 31/10/2022
+* git status
+* git  add .
+* git status
+* git commit -m "Inclusao das notas"
+* git status
+* git push origin main
